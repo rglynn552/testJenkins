@@ -1,1 +1,1 @@
-clear
+rm -r everything
