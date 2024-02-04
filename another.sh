@@ -1,1 +1,1 @@
-rm -r please
+clear
